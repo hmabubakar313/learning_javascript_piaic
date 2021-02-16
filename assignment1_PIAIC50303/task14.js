@@ -1,0 +1,10 @@
+document.getElementById("h2").innerHTML=("Q no.#14");
+ var a=2,b=1;
+ --a;
+ document.getElementById("29").innerHTML=("Now, the value of a is = "+a);
+ --a - --b;
+ document.getElementById("30").innerHTML=("Now, the value of a is a= "+a +"Now, the value of a is a= "+b);
+ --a - --b + ++b;
+ document.getElementById("31").innerHTML=("Now, the value of a is a= "+a +"Now, the value of a is a= "+b);
+ --a - --b + ++b + b--;
+ document.getElementById("32").innerHTML=("Now, the value of a is a= "+a +"Now, the value of a is a= "+b);

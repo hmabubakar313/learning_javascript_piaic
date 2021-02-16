@@ -1,0 +1,13 @@
+document.getElementById("h2").innerHTML=("Q no.#13");
+var a=10;
+++a;
+document.getElementById("22").innerHTML=("the value of ++ a = "+a);
+document.getElementById("23").innerHTML=("Now, the value is : "+a);
+document.getElementById("24").innerHTML=("the value of a++ is : "+a);
+a++;
+document.getElementById("25").innerHTML=("Now,the value is :"+a);
+--a;
+document.getElementById("26").innerHTML=("the value of --a is : "+a);
+document.getElementById("27").innerHTML=("Now, the value of a is = "+a);
+a--;
+document.getElementById("28").innerHTML=("Now, the value of a is = "+a);

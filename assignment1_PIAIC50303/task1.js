@@ -1,0 +1,1 @@
+alert('Hello world\n Welcome to javascript');

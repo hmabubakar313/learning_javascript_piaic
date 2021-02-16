@@ -1,0 +1,5 @@
+document.getElementById("h2").innerHTML=("Question Number = 7")
+document.getElementById("1st").innerHTML=("Variable name should contain dollar and name")
+document.getElementById("2nd").innerHTML=("Variable name should begin with name dollar")
+document.getElementById("3rd").innerHTML=("Variable name are case sensitive")
+document.getElementById("4th").innerHTML=("Variable should not be a JS keyword")
