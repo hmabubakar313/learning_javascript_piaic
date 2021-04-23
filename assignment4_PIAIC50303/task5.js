@@ -1,0 +1,10 @@
+var a=3.1416;
+document.write("Number : "+a);
+document.write("\n");
+a=Math.round(a);
+document.write("Rounded off value :"+a+"\n");
+a=Math.ceil(3.1416,2);
+document.write("ceil :"+a+" ");
+a=3.1416;
+a=Math.floor(a,1);
+document.write("floor : "+a);
